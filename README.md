@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmohan7603&label=Profile%20views&color=0e75b6&style=flat" alt="rmohan7603" /> </p>
 
+- 📄 Find my Resume here [Click Here](https://drive.google.com/file/d/1fPJp22hrciCUCxLUyS5u2q3g_lEM78Tw/view?usp=sharing)
+  
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Python, Java or MERN**
 
-- 📫 How to reach me **rmohan7603@gmail.com**
-
-- ⚡ Innovate, Integrate, Inspire **.**
+- ⚡ Innovate, Integrate, Inspire.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
