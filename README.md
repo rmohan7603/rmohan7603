@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python, Java or MERN**
+- 💬 Ask me about **Python, Java**
 
 - ⚡ Innovate, Integrate, Inspire.
 
